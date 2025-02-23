@@ -194,3 +194,13 @@ Se uma das condições for verdadeiras então nem olhe para o restante
 <p>
   <img src="cape/switch-case.png" width="100%">
 </p>
+
+### Tratamento de erros, Try Catch
+
+<p>
+  <img src="cape/try-catch.png" width="100%">
+</p>
+
+## Funções
+
+Funções são blocos de código reutilizável que calculam ou executam alguma instrução pré programada.
