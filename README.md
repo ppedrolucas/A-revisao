@@ -24,3 +24,11 @@ declaração de variáveis
   Hoisting trata-se de chamar uma função ou variável antes de criá-la. A melhor prática é fazer o inverso. OBS: let e const não são içados.
   <img src="cape/hoisting.png" width="100%">
 </p>
+
+## Tipos de dados
+
+Tipo String
+
+<p>
+  <img src="cape/string.png" width="100%">
+</p>
